@@ -1,0 +1,38 @@
+{
+  "window_size": {
+    "width": 500,
+    "height": 600
+  },
+  "colors": {
+    "background": "#FAFAFA",
+    "tile": {
+      "2": "#EEE4DA",
+      "4": "#EDE0C8",
+      "8": "#F2B179",
+      "16": "#F59563",
+      "32": "#F67C5F",
+      "64": "#F67C5F",
+      "128": "#EDCF72",
+      "256": "#EDCC61",
+      "512": "#EDC850",
+      "1024": "#EDC53F",
+      "2048": "#EDC22E"
+    },
+    "text": "#776E65",
+    "grid": "#BBADA0"
+  },
+  "fonts": {
+    "main": "assets/fonts/your-font-file.ttf",
+    "size": 40
+  },
+  "sound": {
+    "enabled": true,
+    "volume": 0.5,
+    "effects": {
+      "merge": "assets/sounds/merge.wav",
+      "new_tile": "assets/sounds/new_tile.wav",
+      "victory": "assets/sounds/victory.wav",
+      "defeat": "assets/sounds/defeat.wav"
+    }
+  }
+}
