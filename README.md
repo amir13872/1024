@@ -25,7 +25,7 @@ Welcome to the 1024 Game! This project is an advanced version of the classic 204
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/1024-game.git
+   git clone https://github.com/amir13872/1024.git
    cd 1024-game
    ```
 
