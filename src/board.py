@@ -86,7 +86,7 @@ class Board:
 
     def check_win(self):
         for row in self.grid:
-            if 1024 in row:
+            if 4096 in row:
                 return True
         return False
 
